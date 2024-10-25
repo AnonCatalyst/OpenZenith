@@ -13,4 +13,4 @@ The **OpenZenith Selfbot** is a powerful tool designed for Discord users seeking
 - **Real-Time Notifications**: Receive updates and alerts based on specific events or conditions.
 - **Secure Handling of Credentials**: Ensure safe management of sensitive information using encrypted storage.
 
-> **Note**: The free version is currently available for download in the [Releases](link-to-releases-not-set-yet) section. The pro version will be announced in the future.
+> **Note**: The free version is currently available for download in the [Releases](https://github.com/AnonCatalyst/OpenZenith/releases/tag/OpenZenith-FREEv.10.25.2024) section. The pro version will be announced in the future.
