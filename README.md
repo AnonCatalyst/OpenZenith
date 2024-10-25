@@ -4,13 +4,18 @@ The **OpenZenith Selfbot** is a powerful tool designed for Discord users seeking
 
 ## Features
 
-- **Automated Commands**: Execute a variety of commands to automate repetitive tasks and enhance productivity.
-- **OSINT Tools Integration**: Access integrated tools for open-source intelligence gathering and analysis.
-- **Pedo Detection**: Monitor messages for specific keywords related to inappropriate content and receive alerts for potential threats.
-- **Extensive Logging**: Maintain detailed logs of detected activities, providing oversight and accountability.
-- **User-Friendly Interface**: An intuitive design that simplifies navigation and usage.
-- **Customizable Options**: Tailor settings and preferences to meet individual user needs.
-- **Real-Time Notifications**: Receive updates and alerts based on specific events or conditions.
-- **Secure Handling of Credentials**: Ensure safe management of sensitive information using encrypted storage.
+- **Keyword Detection**: Monitors messages for specific low, medium, and high-risk keywords.
+- **NLP Analysis**: Analyzes message content to detect entities and assess sentiment.
+- **Dynamic Logging**: Records details of detected messages in a log file for later review.
+- **Toggle Notifications**: Command to enable or disable notification messages for detected threats.
+- **Message Deletion Logging**: Tracks and logs messages deleted by users.
+- **Message Edit Logging**: Logs and tracks messages that have been edited.
+- **Sensitive Data Detection**: Detects and logs sensitive information like emails, phone numbers, and potential passwords.
+- **Invite Link Detection**: Detects and logs any Discord invite links posted.
+- **URL Detection**: Logs URLs shared within the server.
+- **Mention Logging**: Tracks @mentions and logs them for easy reference.
+- **Attachment Logging**: Logs all attachments such as images, videos, and other files shared in messages.
+- **Customizable Log Files**: Each message type is saved in its own log file for organized and easy-to-access information.
+
 
 > **Note**: The free version is currently available for download in the [Releases](https://github.com/AnonCatalyst/OpenZenith/releases/tag/OpenZenith-FREEv.10.25.2024) section. The pro version will be announced in the future.
