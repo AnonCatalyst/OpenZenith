@@ -10,7 +10,7 @@ The **OpenZenith Selfbot** is a powerful tool designed for Discord users seeking
 - **Toggle Notifications**: Command to enable or disable notification messages for detected threats.
 - **Message Deletion Logging**: Tracks and logs messages deleted by users.
 - **Message Edit Logging**: Logs and tracks messages that have been edited.
-- **Sensitive Data Detection**: Detects and logs sensitive information like emails, phone numbers, and potential passwords.
+- **Sensitive Data Detection**: Detects and logs sensitive information like emails, phone numbers, etc.
 - **Invite Link Detection**: Detects and logs any Discord invite links posted.
 - **URL Detection**: Logs URLs shared within the server.
 - **Mention Logging**: Tracks @mentions and logs them for easy reference.
