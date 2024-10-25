@@ -12,10 +12,9 @@ The **OpenZenith Selfbot** is a powerful tool designed for Discord users seeking
 - **Message Edit Logging**: Logs and tracks messages that have been edited.
 - **Sensitive Data Detection**: Detects and logs sensitive information like emails, phone numbers, etc.
 - **Invite Link Detection**: Detects and logs any Discord invite links posted.
-- **URL Detection**: Logs URLs shared within the server.
+- **URL Detection**: Logs URLs shared within the servers.
 - **Mention Logging**: Tracks @mentions and logs them for easy reference.
 - **Attachment Logging**: Logs all attachments such as images, videos, and other files shared in messages.
-- **Customizable Log Files**: Each message type is saved in its own log file for organized and easy-to-access information.
 
 
 > **Note**: The free version is currently available for download in the [Releases](https://github.com/AnonCatalyst/OpenZenith/releases/tag/OpenZenith-FREEv.10.25.2024) section. The pro version will be announced in the future.
