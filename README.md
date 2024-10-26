@@ -16,5 +16,10 @@ The **OpenZenith Selfbot** is a powerful tool designed for Discord users seeking
 - **Mention Logging**: Tracks @mentions and logs them for easy reference.
 - **Attachment Logging**: Logs all attachments such as images, videos, and other files shared in messages.
 
+### **DEVELOPED BY:** 
+- AnonCatalyst __(Software Developer)__
+- Boucy __(API)__
+- an3ondumps  __(obfuscation)__
+
 
 > **Note**: The free version is currently available for download in the [Releases](https://github.com/AnonCatalyst/OpenZenith/releases/tag/OpenZenith-FREEv.10.25.2024) section. The pro version will be announced in the future.
