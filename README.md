@@ -2,6 +2,12 @@
 
 The **OpenZenith Selfbot** is a powerful tool designed for Discord users seeking enhanced automation and functionalities within their servers. Built with a focus on open-source intelligence (OSINT) practices, this selfbot aims to streamline interactions and provide a versatile platform for various tasks. Currently, only the free version is available, with plans for a pro version in the future.
 
+# Expected Update:
+- Update to the following commands is expected: spam - spam channel
+- Removal of the -ds tag for the troll command because of it being a high ban risk
+- Continued development of the Pedo detection behavior and removal of low threat keywords
+- Continued development of the NLP for the pedo detection behavior
+
 ## Features
 
 - **Keyword Detection**: Monitors messages for specific low, medium, and high-risk keywords.
