@@ -114,12 +114,3 @@ OpenZenith aggregates intelligence from:
 • GateKeeper database (threat intelligence)
 • Pattern matching (leet speak, character variations)
 • Mutual guild detection
-
----
-
-## Rate Limits
-
-• 5 concurrent API requests maximum
-• Adaptive delays based on response
-• Automatic backoff on rate limit hits
-• Per-user rate limiting (10 requests per 60 seconds)
