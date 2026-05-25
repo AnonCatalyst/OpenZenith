@@ -2,7 +2,11 @@
 
 Open-source intelligence platform for Discord - one command to uncover everything.
 
----
+# BUG REPORT!
+
+- Stuck in restart loop
+- Bug fixing scheduled dont worry the service is coming back online just a bug because this system is still in early development
+
 
 ## Invite
 
